@@ -4,7 +4,7 @@
 ### 
 ### 
 
-ChatGPT
+
 Project Overview
 This project is a mobile-responsive admin panel built using advanced React best practices, including folder and file structure, hooks, and refs. It incorporates state management using React Context API and Syncfusion UI components. The primary focus of the project is on UI design, pagination, and mobile responsiveness.
 
