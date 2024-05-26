@@ -17,7 +17,7 @@
 - Admin Panel: Provides access to dashboard, pages (Orders, Employees, Customers), and apps (Calendar, Kanban, Editor, Color Picker)
 - Dashboard: Displays key metrics and insights
 - Pages:
-  - Orders: Tracks and manages orders
+  - Orders: Tracks orders
   - Employees: Displays employee details
   - Customers: Manages customer-related data
 - Apps:
