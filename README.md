@@ -34,4 +34,4 @@
 - React Context API
 - HTML/CSS
 - JavaScript
-- Mock Data
+- Dummy Data
