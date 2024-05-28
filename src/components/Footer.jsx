@@ -1,11 +1,12 @@
-import React from 'react';
-
+// Footer.jsx
+import React from 'react'; // Add this line
 const Footer = () => (
   <div className="mt-24">
     <p className="dark:text-gray-200 text-gray-700 text-center m-20">
-      © 2024 All rights reserved 
+      ©2024 All rights reserved
     </p>
   </div>
 );
 
 export default Footer;
+
