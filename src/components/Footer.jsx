@@ -9,4 +9,4 @@ const Footer = () => (
 );
 
 export default Footer;
-// Add a newline at the end of the file
+// Add an empty line here
