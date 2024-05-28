@@ -8,3 +8,4 @@ const Footer = () => (
   </div>
 );
 export default Footer;
+// Add a newline at the end of the file
