@@ -1,4 +1,3 @@
-// Footer.jsx
 import React from 'react'; // Add this line
 const Footer = () => (
   <div className="mt-24">
@@ -7,6 +6,5 @@ const Footer = () => (
     </p>
   </div>
 );
-
 export default Footer;
 
